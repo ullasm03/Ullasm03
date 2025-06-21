@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Ullas M, a final-year engineering student passionate about full stack web development.
+I’m Ullas M, a final-year engineering student passionate about full stack development.
 
 
 ## 🌐 Socials:
